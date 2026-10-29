@@ -24,7 +24,7 @@ A single M3U playlist merged from several public IPTV sources, sorted alphabetic
 Load `playlist.m3u` into any IPTV player that supports M3U (VLC, Kodi, TiviMate, IPTV Smarters, etc.):
 
 ```
-https://raw.githubusercontent.com/Csurlee/iptv-merged-playlist/main/playlist.m3u
+https://raw.githubusercontent.com/Csurlee/iptv-merged-playlist/master/playlist.m3u
 ```
 
 ## Disclaimer
