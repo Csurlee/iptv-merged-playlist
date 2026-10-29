@@ -15,9 +15,12 @@ A single M3U playlist merged from several public IPTV sources, sorted alphabetic
 
 1. Each source's channel list was parsed (`#EXTINF` + stream URL).
 2. Every channel's country was normalized to a single canonical name (e.g. `UK`, `uk`, `GB` all became `United Kingdom`), so entries from different sources sort into the same country group.
-3. Exact-duplicate stream URLs were removed, keeping the first occurrence.
-4. Channels with the same name but a **different** stream URL were kept as separate entries (different mirrors/providers).
-5. The result was sorted by country, then by channel name, and written out as a single `#EXTM3U` file.
+3. Channels missing a `tvg-id` (mainly `Negal78/IPTV_2023_HUN`, which ships none) had one backfilled by matching their name against another entry for the same country that already had one — ~440 channels gained a `tvg-id` this way, so more of them can pick up EPG data.
+4. Exact-duplicate stream URLs were removed, keeping the first occurrence.
+5. Channels with the same name but a **different** stream URL were kept as separate entries (different mirrors/providers).
+6. The result was sorted by country, then by channel name, and written out as a single `#EXTM3U` file.
+
+Of the 19,691 channels, 17,607 (~89%) now carry a `tvg-id` that an EPG source can match against. The remaining ~2,000 are mostly one-off international/category feeds (e.g. Pluto TV channels) or small local stations with no matching entry anywhere else in the merged set, so there was nothing to copy a `tvg-id` from.
 
 ## Usage
 
