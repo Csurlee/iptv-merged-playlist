@@ -40,6 +40,19 @@ https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz
 
 Most players (TiviMate, IPTV Smarters, VLC with an EPG plugin) pick this up automatically from the playlist header. This is the same EPG source already used by the `dmandache/my-iptv-playlist` and `Free-TV/IPTV` sources, so coverage follows their `tvg-id` values — channels without a `tvg-id` (mainly the ones from `Negal78/IPTV_2023_HUN`) won't get program data, only playback.
 
+## Europe playlist with a matching guide
+
+`playlist.m3u` above points at a third-party guide whose channel IDs mostly don't match this playlist's IDs (about 3% coverage).
+For Europe there is a second playlist whose IDs are remapped onto a guide built to match:
+
+```
+https://raw.githubusercontent.com/Csurlee/iptv-merged-playlist/master/playlist-europe.m3u
+```
+
+- Built daily by [`build_epg.py`](build_epg.py) via [GitHub Actions](.github/workflows/epg.yml) from [free-epg.de](https://free-epg.de) and [epgshare01](https://epgshare01.online).
+- The guide (7 days ahead, only the channels in the playlist) is published as a release asset: `releases/download/epg/guide.xml.gz`. The playlist header already points to it.
+- [`COVERAGE.md`](COVERAGE.md) shows per-country coverage. Expect roughly a third of entries to have guide data: many entries are small local stations or on-demand style feeds that nobody publishes schedules for.
+
 ## Disclaimer
 
 This repository only merges and re-sorts publicly available playlist metadata (channel names and stream URLs) from the sources listed above. It does not host any video streams itself. Stream availability and legality depend on the original providers and your local laws — use at your own responsibility.
