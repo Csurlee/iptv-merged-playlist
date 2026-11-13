@@ -1,6 +1,6 @@
 # EPG coverage
 
-Built 2026-11-12 13:29 UTC. **2514 of 7739 playlist entries (32.5%)** have guide data; 1407 guide channels, 199160 programmes, 7 days ahead.
+Built 2026-11-13 12:58 UTC. **2499 of 7739 playlist entries (32.3%)** have guide data; 1396 guide channels, 199541 programmes, 7 days ahead.
 
 | Country | Entries | With guide | % |
 |---|---:|---:|---:|
@@ -13,7 +13,7 @@ Built 2026-11-12 13:29 UTC. **2514 of 7739 playlist entries (32.5%)** have guide
 | Bulgaria | 75 | 38 | 51% |
 | Croatia | 38 | 32 | 84% |
 | Cyprus | 22 | 9 | 41% |
-| Czech Republic | 109 | 84 | 77% |
+| Czech Republic | 109 | 83 | 76% |
 | Denmark | 265 | 21 | 8% |
 | Estonia | 31 | 0 | 0% |
 | Faroe Islands | 2 | 0 | 0% |
@@ -48,7 +48,7 @@ Built 2026-11-12 13:29 UTC. **2514 of 7739 playlist entries (32.5%)** have guide
 | Spain | 495 | 100 | 20% |
 | Sweden | 247 | 22 | 9% |
 | Switzerland | 38 | 22 | 58% |
-| Turkey | 242 | 89 | 37% |
+| Turkey | 242 | 75 | 31% |
 | Ukraine | 239 | 156 | 65% |
 | United Kingdom | 850 | 273 | 32% |
 
