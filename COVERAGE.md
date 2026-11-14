@@ -1,6 +1,6 @@
 # EPG coverage
 
-Built 2026-11-13 12:58 UTC. **2499 of 7739 playlist entries (32.3%)** have guide data; 1396 guide channels, 199541 programmes, 7 days ahead.
+Built 2026-11-14 12:13 UTC. **2499 of 7739 playlist entries (32.3%)** have guide data; 1396 guide channels, 195651 programmes, 7 days ahead.
 
 | Country | Entries | With guide | % |
 |---|---:|---:|---:|
