@@ -10287,9 +10287,9 @@ https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8
 #EXTINF:-1 tvg-id="&#x420;&#x43E;&#x441;&#x441;&#x438;&#x44F;24.ru" group-title="Russia",ЛенТВ24
 https://player.smotrim.ru/iframe/stream/live_id/3e95d201-f87d-4ac1-8897-db2c66bb9657
-#EXTINF:-1 tvg-id="Москва-24.[RU].ua" group-title="Russia",Луганск 24
+#EXTINF:-1 tvg-id="Київ.24.[UA-RU].ua" group-title="Russia",Луганск 24
 https://streaming.televizor-24-tochka.ru/live/29.m3u8
-#EXTINF:-1 tvg-id="Москва-24.[RU].ua" tvg-name="Луганск 24" tvg-logo="https://i.imgur.com/YnLFQnt.png" tvg-country="RU" group-title="Russia",Луганск 24
+#EXTINF:-1 tvg-id="Київ.24.[UA-RU].ua" tvg-name="Луганск 24" tvg-logo="https://i.imgur.com/YnLFQnt.png" tvg-country="RU" group-title="Russia",Луганск 24
 https://tv.gtrklnr.ru/hls/Lugansk24.m3u8
 #EXTINF:-1 tvg-id="Magnat.ru@SD" group-title="Russia",Магнат ТВ (1080p)
 https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
@@ -11621,7 +11621,7 @@ https://dash4.antik.sk/live/test_tv9/playlist.m3u8
 https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPPolonia.pl" group-title="Slovakia",TVP Polonia
 https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
-#EXTINF:-1 tvg-id="TVP.World.pl" group-title="Slovakia",TVP World
+#EXTINF:-1 tvg-id="TVP.World.HD.pl" group-title="Slovakia",TVP World
 https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
 #EXTINF:-1 tvg-id="TVT.sk@SD" group-title="Slovakia",TVT (486p)
 https://5ca49f2417d90.streamlock.net/live/turzovka/playlist.m3u8
@@ -13807,7 +13807,7 @@ http://stream.mcquack.net/173/index.m3u8
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua@SD" group-title="Ukraine",24 Kanal (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Москва-24.[RU].ua" group-title="Ukraine",24 Канал (1080p)
+#EXTINF:-1 tvg-id="Київ.24.[UA-RU].ua" group-title="Ukraine",24 Канал (1080p)
 https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="36,6.ua" group-title="Ukraine",36.6 TV
 https://dash2.antik.sk/live/test_tridsatsest_hd_atktv/playlist.m3u8
@@ -13925,7 +13925,7 @@ http://stream.mcquack.net/287/index.m3u8
 #EXTINF:-1 tvg-id="Fauna.ua" group-title="Ukraine",Fauna (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/401/index.m3u8
-#EXTINF:-1 tvg-id="FILMUA.Live.[UA-UA].ua" group-title="Ukraine",FilmUA Live
+#EXTINF:-1 tvg-id="FILMUA.Live.[UA-RU].ua" group-title="Ukraine",FilmUA Live
 https://dash2.antik.sk/live/test_film_life_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMUADRAMA.ua" group-title="Ukraine",FilmUADrama
 https://dash2.antik.sk/live/test_film_drama_atktv/playlist.m3u8
@@ -13940,7 +13940,7 @@ https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
 http://95.67.106.242/mobile-app/main/freedom/master.m3u8
 #EXTINF:-1 tvg-id="GIT.ua@SD" group-title="Ukraine",GIT (720p)
 https://stream.uagit.tv/gittv.m3u8
-#EXTINF:-1 tvg-id="Happy.Radio.TV.[UA-UA].ua" group-title="Ukraine",Happy Radio TV (1080p)
+#EXTINF:-1 tvg-id="Happy.Radio.TV.[UA-RU].ua" group-title="Ukraine",Happy Radio TV (1080p)
 https://tv.mediacp.eu:8081/happyradio/index.m3u8
 #EXTINF:-1 tvg-id="HistoryUkraine.ua@SD" group-title="Ukraine",History Ukraine
 http://dtv.vol.net.ua/History_HD/index.m3u8
@@ -13975,9 +13975,9 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/inter-abr/playlist.m3u8
 https://stream.irt.ua/memfs/8fac7cbb-3356-4a03-bb77-4439b727ebd2.m3u8
 #EXTINF:-1 tvg-id="Islandia.ua" group-title="Ukraine",Islandia (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/islandiya-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV.[UA-RU].ua" group-title="Ukraine",ITV (480p)
+#EXTINF:-1 tvg-id="ITV.[UA-UA].ua" group-title="Ukraine",ITV (480p)
 https://cdn10.live-tv.cloud/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1 tvg-id="ITV.[UA-RU].ua" group-title="Ukraine",ITV HD
+#EXTINF:-1 tvg-id="ITV.[UA-UA].ua" group-title="Ukraine",ITV HD
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 #EXTINF:-1 tvg-id="IzmailTV.ua@SD" group-title="Ukraine",Izmail TV (384p)
 https://cdn10.live-tv.cloud/izod/izod-abr-lq/playlist.m3u8
@@ -14044,7 +14044,7 @@ http://stream.mcquack.net/325/index.m3u8
 http://dtv.vol.net.ua/MEGA_HD/index.m3u8
 #EXTINF:-1 tvg-id="Mega.ua" group-title="Ukraine",Mega (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/mega-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Megogo.Music.[UA-UA].ua" group-title="Ukraine",Megogo Music
+#EXTINF:-1 tvg-id="Megogo.Music.[UA-RU].ua" group-title="Ukraine",Megogo Music
 #EXTVLCOPT:http-user-agent=curl/8.16.0
 https://ext.cdn.nashnet.tv/228.0.2.214/index.m3u8
 #EXTINF:-1 tvg-id="MEGOGOSport.ua@SD" group-title="Ukraine",MEGOGO Sport (1080p)
@@ -14131,9 +14131,9 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/hrpl-abr/playlist.m3u8
 http://stream.mcquack.net/397/index.m3u8
 #EXTINF:-1 tvg-id="Rada.ua" group-title="Ukraine",Rada TV (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/rada-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="Raz1.[UA-RU].ua" group-title="Ukraine",RAZ 1 (1080p)
+#EXTINF:-1 tvg-id="Raz1.[UA-UA].ua" group-title="Ukraine",RAZ 1 (1080p)
 http://stream.mcquack.net/463/index.m3u8
-#EXTINF:-1 tvg-id="Raz2.[UA-RU].ua" group-title="Ukraine",RAZ 2 (1080p)
+#EXTINF:-1 tvg-id="Raz2.[UA-UA].ua" group-title="Ukraine",RAZ 2 (1080p)
 http://stream.mcquack.net/464/index.m3u8
 #EXTINF:-1 tvg-id="Raz3.[UA-RU].ua" group-title="Ukraine",RAZ 3 (720p)
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
@@ -14183,7 +14183,7 @@ http://stream.mcquack.net/212/index.m3u8
 #EXTINF:-1 tvg-id="STB.ua" group-title="Ukraine",STB (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/156/index.m3u8
-#EXTINF:-1 tvg-id="Super+.[UA-RU].ua" group-title="Ukraine",Super+ (360p)
+#EXTINF:-1 tvg-id="Super+.[UA-UA].ua" group-title="Ukraine",Super+ (360p)
 http://dtv.vol.net.ua/super_plus/index.m3u8
 #EXTINF:-1 tvg-id="SuspilneSport.ua" tvg-name="Suspilne Sport" tvg-logo="https://i.imgur.com/16IhU0M.png" tvg-country="UA" group-title="Ukraine",Suspilne Sport
 http://cdnua05.hls.tv/934/hls/8743361621b245838bee193c9ec28322/4856/stream.m3u8
@@ -14228,7 +14228,7 @@ https://pravdatytkyiv.cdn-01.cosmonova.net.ua/hls/pradva-tut-ildana_ua_hi/index.
 http://stream.mcquack.net/357/index.m3u8
 #EXTINF:-1 tvg-id="Rivne1.ua@SD" group-title="Ukraine",TV Rivne 1 (720p)
 https://cdn1.live-tv.cloud/rivne1/rivne1-abr/playlist.m3u8
-#EXTINF:-1 tvg-id="ТНТ4.(+2).[RU].ua" group-title="Ukraine",TV-4 (720p) [Geo-blocked]
+#EXTINF:-1 tvg-id="ТНТ4.(+4).[RU].ua" group-title="Ukraine",TV-4 (720p) [Geo-blocked]
 https://vs2126.vcdn.biz/c27a63fda28be51f87a7d0046de1f4b8_megogo/live/hls/b/700_2490/u_sid/0/o/71044361/rsid/393818da-edd4-44bd-b2db-4ebf226abd3d/u_uid/0/u_vod/1/u_device/cms_webandroid/u_devicekey/_site_mobile/lip/5.63.189.224*asn/u_did/web_0voqy4czLIxD4iwJZ0z0GctEMa9GIH7A/type.live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV7Plus.ua@SD" group-title="Ukraine",TV7+
 https://tv7plus.com/hls/tv7_site.m3u8
@@ -14246,7 +14246,7 @@ http://stream.mcquack.net/281/index.m3u8
 #EXTINF:-1 tvg-id="UNIANSerial.ua@SD" group-title="Ukraine",UNIAN Serial (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://stream.mcquack.net/341/index.m3u8
-#EXTINF:-1 tvg-id="UPL.TV.[UA-RU].ua" group-title="Ukraine",UPL.TV
+#EXTINF:-1 tvg-id="UPL.TV.[UA-UA].ua" group-title="Ukraine",UPL.TV
 http://dtv.vol.net.ua/UPL-TV/index.m3u8
 #EXTINF:-1 tvg-id="ViasatExplore.ua" group-title="Ukraine",Viasat Explore
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
@@ -14274,7 +14274,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjU
 http://dtv.vol.net.ua/Viasat_Kino_Action_HD/index.m3u8
 #EXTINF:-1 tvg-id="Viasat.Kino.[EU].ua" group-title="Ukraine",Viasat Kino Bulgaria (1080p)
 http://hls127.freeott.top:8080/BG_Viasat_Kino_HD/video.m3u8
-#EXTINF:-1 tvg-id="Viasat.Kino.Comedy.[EU].ua" group-title="Ukraine",Viasat Kino Comedy
+#EXTINF:-1 tvg-id="Viasat.Kino.Comedy.(на.укр.).[EU].ua" group-title="Ukraine",Viasat Kino Comedy
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDQvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk4Mzcmc3Q9UzRPS1VZemNocmREQWhnSTJkTDJ5QQ%3D%3D&master=249
@@ -14282,7 +14282,7 @@ http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
-#EXTINF:-1 tvg-id="Viasat.Kino.World.[EU].ua" group-title="Ukraine",Viasat Kino World
+#EXTINF:-1 tvg-id="Viasat.Kino.World.(на.укр.).[EU].ua" group-title="Ukraine",Viasat Kino World
 #EXTVLCOPT:http-referrer=http://live.tvstitch.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36
 http://777905.live.tvstitch.com/playlist.m3u8?source=aHR0cDovLzE3Ni4xMjIuMTAzLjI0MTo3MDAwL2NoNDgvdHJhY2tzLXYxYTEvbW9uby5tM3U4P2xpdmU9MSZpcD0xNzguMTM2LjQyLjIyMCZpZD05NDg4NjUmc2VjcmV0PW4xdTd1aTA2JnNzbD0xJjIxeW89MCZlPTE3OTA1OTk5NDcmc3Q9N3ROblpCZy02WTBka1RuekRIZjU0QQ%3D%3D&master=102
@@ -14326,7 +14326,7 @@ http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
 #EXTINF:-1 tvg-id="Pravdatut.ua" group-title="Ukraine",ПравдаТУТ (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:97.0) Gecko/20100101 Firefox/97.0
 https://pravdatytkievshina.cdn-02.cosmonova.net.ua/hls/pravdatytkievshina_ua.m3u8
-#EXTINF:-1 tvg-id="К1.[UA-UA].ua" group-title="Ukraine",СК1 Житомир
+#EXTINF:-1 tvg-id="УР1.(Перший.канал).[UA-UA].ua" group-title="Ukraine",СК1 Житомир
 http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="SuspilneKropyvnytskyi.ua" tvg-name="Суспільне Kropyvnytskyi" tvg-logo="https://i.imgur.com/zzYJr87.png" tvg-country="UA" group-title="Ukraine",Суспільне Kropyvnytskyi
 http://cdnua05.hls.tv/650/hls/f62d71219200da4130d13b21d23fb23c/4788/stream.m3u8
