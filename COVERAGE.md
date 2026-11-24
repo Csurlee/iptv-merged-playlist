@@ -1,6 +1,6 @@
 # EPG coverage
 
-Built 2026-11-23 15:25 UTC. **2115 of 7739 playlist entries (27.3%)** have guide data; 1350 guide channels, 188993 programmes, 7 days ahead.
+Built 2026-11-24 15:36 UTC. **2498 of 7739 playlist entries (32.3%)** have guide data; 1395 guide channels, 188450 programmes, 7 days ahead.
 
 | Country | Entries | With guide | % |
 |---|---:|---:|---:|
@@ -22,7 +22,7 @@ Built 2026-11-23 15:25 UTC. **2115 of 7739 playlist entries (27.3%)** have guide
 | Germany | 486 | 136 | 28% |
 | Greece | 114 | 58 | 51% |
 | Holy See (Vatican City State) | 3 | 3 | 100% |
-| Hungary | 307 | 147 | 48% |
+| Hungary | 307 | 146 | 48% |
 | Iceland | 8 | 4 | 50% |
 | Ireland | 28 | 10 | 36% |
 | Italy | 784 | 137 | 17% |
@@ -40,7 +40,7 @@ Built 2026-11-23 15:25 UTC. **2115 of 7739 playlist entries (27.3%)** have guide
 | Poland | 226 | 127 | 56% |
 | Portugal | 68 | 42 | 62% |
 | Romania | 175 | 94 | 54% |
-| Russia | 1249 | 7 | 1% |
+| Russia | 1249 | 391 | 31% |
 | San Marino | 2 | 0 | 0% |
 | Serbia | 59 | 51 | 86% |
 | Slovakia | 117 | 35 | 30% |
