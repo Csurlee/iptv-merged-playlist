@@ -1,6 +1,6 @@
 # EPG coverage
 
-Built 2026-11-24 15:36 UTC. **2498 of 7739 playlist entries (32.3%)** have guide data; 1395 guide channels, 188450 programmes, 7 days ahead.
+Built 2026-11-25 15:10 UTC. **2480 of 7739 playlist entries (32.0%)** have guide data; 1385 guide channels, 190221 programmes, 7 days ahead.
 
 | Country | Entries | With guide | % |
 |---|---:|---:|---:|
@@ -13,12 +13,12 @@ Built 2026-11-24 15:36 UTC. **2498 of 7739 playlist entries (32.3%)** have guide
 | Bulgaria | 75 | 38 | 51% |
 | Croatia | 38 | 32 | 84% |
 | Cyprus | 22 | 9 | 41% |
-| Czech Republic | 109 | 85 | 78% |
+| Czech Republic | 109 | 83 | 76% |
 | Denmark | 265 | 21 | 8% |
 | Estonia | 31 | 0 | 0% |
 | Faroe Islands | 2 | 0 | 0% |
 | Finland | 81 | 41 | 51% |
-| France | 485 | 157 | 32% |
+| France | 485 | 154 | 32% |
 | Germany | 486 | 136 | 28% |
 | Greece | 114 | 58 | 51% |
 | Holy See (Vatican City State) | 3 | 3 | 100% |
@@ -44,12 +44,12 @@ Built 2026-11-24 15:36 UTC. **2498 of 7739 playlist entries (32.3%)** have guide
 | San Marino | 2 | 0 | 0% |
 | Serbia | 59 | 51 | 86% |
 | Slovakia | 117 | 35 | 30% |
-| Slovenia | 24 | 22 | 92% |
+| Slovenia | 24 | 21 | 88% |
 | Spain | 495 | 100 | 20% |
 | Sweden | 247 | 22 | 9% |
 | Switzerland | 38 | 22 | 58% |
 | Turkey | 242 | 75 | 31% |
-| Ukraine | 239 | 156 | 65% |
+| Ukraine | 239 | 144 | 60% |
 | United Kingdom | 850 | 273 | 32% |
 
 Sources that failed to download this run: cy, ee, ie, mc, md, sk
